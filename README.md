@@ -89,7 +89,8 @@ Also calculated: - Mean = np - Variance = np(1 − p)
 Visual representation of overlap between: - Study Hours \> 10 -
 Attendance \> 80%
 
-See: `Venn_Diagram.png`
+<img width="515" height="339" alt="Venn_Diagram" src="https://github.com/user-attachments/assets/5ca33e11-a955-4bba-b6a9-d034acced9b1" />
+
 
 ------------------------------------------------------------------------
 
